@@ -1,1 +1,8 @@
 # Team App - Shared File
+## Backend API - bilgee
+ENDPOINT=/api/login
+METHOD=POST
+AUTH=JWT
+## API Routes
+- POST /api/login
+- GET /api/user
