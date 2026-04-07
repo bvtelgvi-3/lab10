@@ -2,3 +2,7 @@
 FRAMEWORK=REACT 
 STYLE=TailwindCSS
 THEME=dark
+##UI components
+-LoginForm
+-NavBar
+-Dashboard
