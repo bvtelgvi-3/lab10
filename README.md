@@ -14,3 +14,5 @@
 - Conflict үүсгэж шийдсэн
 - Pull Request ашигласан
 - Code Review хийсэн
+##repository
+https://github.com/bvtelgvi-3/lab10.git
