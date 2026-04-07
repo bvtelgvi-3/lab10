@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Frontend UI - Enxsvld
 FRAMEWORK=REACT 
 STYLE=TailwindCSS
@@ -6,3 +7,36 @@ THEME=dark
 -LoginForm
 -NavBar
 -Dashboard
+=======
+# Team App - Shared File
+## Backend API - bilgee
+ENDPOINT=/api/login
+METHOD=POST
+AUTH=JWT
+## API Routes
+- POST /api/login
+- GET /api/user
+>>>>>>> 1d37e20ef372395092a285dad418281d30e6f183
+HEAD 
+##Frontend UI - Enxsvld
+FRAMEWORK=REACT
+
+##Backend API - bilgee
+ENDPOINT=/api/login
+main
+## Backend API - bilgee
+ENDPOINT=/api/login
+METHOD=POST
+AUTH=JWT
+## API Routes
+- POST /api/login
+- GET /api/user
+
+## Frontend UI - Saruul
+FRAMEWORK=React
+STYLE=TailwindCSS
+THEME=dark
+## UI Components
+- LoginForm
+- NavBar
+- Dashboard
