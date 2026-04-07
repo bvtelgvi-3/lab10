@@ -3,3 +3,6 @@
 ENDPOINT=/api/login
 METHOD=POST
 AUTH=JWT
+## API Routes
+- POST /api/login
+- GET /api/user
