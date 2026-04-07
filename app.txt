@@ -1,0 +1,4 @@
+## Frontend UI - Enxsvld
+FRAMEWORK=REACT 
+STYLE=TailwindCSS
+THEME=dark
